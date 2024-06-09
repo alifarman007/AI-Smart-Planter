@@ -34,10 +34,10 @@ If you'd like to contribute, please fork the repository, make your changes, and 
  
 ## License
  
-This project is licensed under the [MIT License](LICENSE), allowing for free use, modification, and distribution.
+This project is licensed under the [ISHO Innovation Lab](LICENSE), allowing for free use, modification, and distribution.
  
 ## Contact
  
-For questions, suggestions, or collaboration opportunities, please contact [your@email.com](mailto:your@email.com).
+For questions, suggestions, or collaboration opportunities, please contact us.
  
 Happy gardening! 🌿✨
